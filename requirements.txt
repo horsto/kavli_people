@@ -4,4 +4,3 @@ matplotlib==2.1.1
 geonamescache==0.21
 numpy==1.13.3
 pycountry==17.9.23
-mpl_toolkits
