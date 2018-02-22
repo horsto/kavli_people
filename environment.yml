@@ -10,3 +10,4 @@ dependencies:
     - geonamescache==0.21
     - numpy==1.13.3
     - pycountry==17.9.23
+    - xlrd
