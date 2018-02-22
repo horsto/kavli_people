@@ -1,2 +1,1 @@
-# kavli_people
-Kavli People
+# Kavli people
